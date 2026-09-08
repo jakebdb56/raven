@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "raven_esp32c3",
+			"path": "raven_esp32c3"
+		}
+	],
+	"settings": {}
+}
